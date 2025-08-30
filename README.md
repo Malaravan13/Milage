@@ -6,7 +6,7 @@ It uses a **trained Machine Learning model** (saved with Pickle) to estimate the
 ---
 
 ##  Features
-- User-friendly **web app** .
+- User-friendly **web app** (https://milage-24bzargubxrgwnw4h2rdvh.streamlit.app/).
 - Predicts **Miles per Gallon (MPG)** from car specifications.
 - Uses a **trained regression model** with scaling.
 - Interactive inputs for car details.
